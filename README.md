@@ -26,6 +26,7 @@
 #### Win
 - Alvaro Dias
 
+
 ## 2º mundo (#LulaLadrãoRoubouMeuCoração)
 ### 2º turno (Gustavo)
 - Bolsonaro
@@ -33,6 +34,11 @@
 #### Win
 - Bolsonaro
 ### 2º turno (André)
+- Alvaro Dias
+- Lula
+#### Win
+- Alvaro Dias
+### 2º turno (Clayton Aldrovandi)
 - Alvaro Dias
 - Lula
 #### Win
